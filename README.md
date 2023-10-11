@@ -1,16 +1,8 @@
 # demo_getx
 
-A new Flutter project.
+基于基于getx搭建的mvvm架构
 
-## Getting Started
+# 介绍
+demo中介绍了getx的基本使用，包含SnackBar、Dialog、数据存储、主题颜色、状态管理；
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+同时使用getx的依赖注入binding+状态管理controller搭建mvvm架构；
